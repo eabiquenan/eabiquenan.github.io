@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eabiquenan.github.io/sitemap
+Sitemap: https://eabiquenan.github.io/app/sitemap
+Sitemap: https://eabiquenan.github.io/assets/sitemap
+Sitemap: https://eabiquenan.github.io/css/sitemap
+Sitemap: https://eabiquenan.github.io/includes/sitemap
+Sitemap: https://eabiquenan.github.io/item/sitemap
+Sitemap: https://eabiquenan.github.io/src/sitemap
